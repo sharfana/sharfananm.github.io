@@ -1,0 +1,8 @@
+title: Sharfananm.GitHub.io
+description: my new repository
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
